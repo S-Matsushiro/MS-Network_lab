@@ -21,7 +21,7 @@ Practical network emulations with FreeBSD or Debian on VirtualBox.
 
 #### JP
 1. 仮想ネットワークとは？
-2. VirtualBoxとあFreeBSDのインストール
+2. VirtualBoxとFreeBSDのインストール
 3. Unixの基礎
 4. 情報ネットワーク入門
 
