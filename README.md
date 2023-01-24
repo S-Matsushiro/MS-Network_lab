@@ -1,7 +1,7 @@
 # Network_lab
 This repository is Network emulation practice, Compatible with LPIC, CCNA and CCNP.It was created as a new document that covers everything from OS basics to networks.
 Practical network emulations with FreeBSD or Debian on VirtualBox.  
-このリポジトリはネットワークエミュレーションを行うためのものであり、LPIC, CCNAとCCNPに対応しています。OSの基礎からネットワークに至るまでを網羅する新たな資料として作成しました。
+このリポジトリはネットワークエミュレーションを行うためのものでありLPIC, CCNAとCCNPに対応しています。OSの基礎からネットワークに至るまでを網羅する新たな資料として作成しました。
 ### Practice 1
 #### En
 1. What is Virtual Network?
