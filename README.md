@@ -1,2 +1,2 @@
 # Network_lab
-This repository Network emulation.
+This repository is Network emulation practice.
