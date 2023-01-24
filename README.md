@@ -2,18 +2,23 @@
 This repository is Virtual Network emulation practice, Compatible with LPIC, CCNA and CCNP.It was created as a new document that covers everything from OS basics to networks.
 Practical network emulations with FreeBSD or Debian on VirtualBox.  
 このリポジトリは仮想ネットワークエミュレーションを行うためのものでありLPIC, CCNAとCCNPに対応しています。OSの基礎からネットワークに至るまでを網羅する新たな資料として作成しました
+<!--table-->
 ## Machine Spec requirements
-| Hard | description |
+| Hardware | description |
 | --- | --- |
 | CPU | Core i5 Gen9 |
 | Memory | 16GB |
 | Stroge| 512GB |
+<!--subject-->
+
 ### Practice 1
+
 #### En
 1. What is Virtual Network?
 2. Installing VirtualBox and FreeBSD.
 3. Basic **UNIX** topics.
 4. Getting started Information Network.
+
 #### JP
 1. 仮想ネットワークとは？
 2. VirtualBoxとあFreeBSDのインストール
@@ -21,15 +26,20 @@ Practical network emulations with FreeBSD or Debian on VirtualBox.
 4. 情報ネットワーク入門
 
 ### Practice 2
+
 #### En
 1. What is OSI model and TCP/IP?
 2. To Understand Network protocol.
-3. Network Device.
+3. Network Device(Ethernet LAN).
 4. What is Rouitng and Switching?
+
 #### JP
-1. OSI参照モデルとは？
+1. OSI参照モデルとTCP/IPとは？
 2. ネットワークプロトコルの理解
-3. ネットワーク機器
+3. ネットワーク機器(Ethernet LAN)
 4. ルーティングとスイッチングとは？
+
 ### Practice 3
-1. 
+1. IP address structure
+2. Mac address
+3. Basics Routing
