@@ -13,7 +13,7 @@ Practical network emulations with FreeBSD or Debian on VirtualBox.
 
 ### Practice 1
 
-#### En
+#### EN
 1. What is Virtual Network?
 2. Installing VirtualBox and FreeBSD.
 3. Basic **UNIX** topics.
@@ -27,7 +27,7 @@ Practical network emulations with FreeBSD or Debian on VirtualBox.
 
 ### Practice 2
 
-#### En
+#### EN
 1. What is OSI model and TCP/IP?
 2. To Understand Network protocol.
 3. Network Device(Ethernet LAN).
@@ -40,6 +40,15 @@ Practical network emulations with FreeBSD or Debian on VirtualBox.
 4. ルーティングとスイッチングとは？
 
 ### Practice 3
+#### EN
 1. IP address structure
-2. Mac address
-3. Basics Routing
+2. Mac address structure
+3. What is Quagga? 
+4. Getting started Cisco Network Device
+5. Basics Routing
+#### JP
+1. IPアドレスの構造
+2. Macアドレスの構造
+3. Quaggaとは？
+4. CiscoNW機器入門
+5. 基本的なルーティング
