@@ -11,6 +11,7 @@ Practical network emulations with FreeBSD or Debian on VirtualBox.
 | Stroge| 512GB |
 <!--subject-->
 ## 最初のゴール
+最初のゴールはVirtualBox上でFreeBSDをベースとしたQuaggaのソフトウェアルーティングによる静的ルーティングを行うことを目標とする。
 ![Network_diagram](https://user-images.githubusercontent.com/105468859/214523643-a94fe426-6c5b-4feb-aa01-5892f7639a1b.svg)
 ### Practice 1
 
