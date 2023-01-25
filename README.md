@@ -52,5 +52,5 @@ Practical network emulations with FreeBSD or Debian on VirtualBox.
 3. Quaggaとは？
 4. CiscoNW機器入門
 5. 基本的なルーティング
->**Note**
+>**Note**  
 >演習環境として[EVE-ng](https://www.eve-ng.net/)の環境構築を行います。
