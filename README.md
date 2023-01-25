@@ -11,7 +11,7 @@ Practical network emulations with FreeBSD or Debian on VirtualBox.
 | Stroge| 512GB |
 <!--subject-->
 ## 最初のゴール
-[Network_diagram.svg](Network_diagram.svg)
+[Network_diagram](Network_diagram.svg)
 ### Practice 1
 
 #### EN
