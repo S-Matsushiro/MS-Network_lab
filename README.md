@@ -49,11 +49,24 @@ Practical network emulations with FreeBSD or Debian on VirtualBox.
 3. What is Quagga? 
 4. Getting started Cisco Network Device
 5. Basics Routing
+6. Static Routing
 #### JP
 1. IPアドレスの構造
 2. Macアドレスの構造
 3. Quaggaとは？
 4. CiscoNW機器入門
 5. 基本的なルーティング
+6. 静的ルーティング
 >**Note**  
 >演習環境として[EVE-ng](https://www.eve-ng.net/)の環境構築を行います。
+### Practice 4
+#### EN
+1. What is Dynamic Routing?
+2. RIP
+3. OSPF
+4. BGP
+#### JP
+1. 動的ルーティングとは？
+2. RIP
+3. OSPF
+4. BGP
