@@ -10,7 +10,8 @@ Practical network emulations with FreeBSD or Debian on VirtualBox.
 | Memory | 16GB |
 | Stroge| 512GB |
 <!--subject-->
-
+## 最初のゴール
+[Network_diagram.svg](Network_diagram.svg)
 ### Practice 1
 
 #### EN
