@@ -1,0 +1,15 @@
+Windows Registry Editor Version 5.00
+[HKEY_CURRENT_USER\SOFTWARE\Classes\RLogin.telnet]
+@="telnet"
+[HKEY_CURRENT_USER\SOFTWARE\Classes\RLogin.telnet\DefaultIcon]
+@="C:\\softwares\\rlogin_x64\\RLogin.exe, 0"
+[HKEY_CURRENT_USER\SOFTWARE\Classes\RLogin.telnet\shell]
+[HKEY_CURRENT_USER\SOFTWARE\Classes\RLogin.telnet\shell\open]
+[HKEY_CURRENT_USER\SOFTWARE\Classes\RLogin.telnet\shell\open\command]
+@="C:\\softwares\\rlogin_x64\\RLogin.exe /entry \"Node Telennet\" /inuse \"%1\""
+[HKEY_CURRENT_USER\SOFTWARE\RLogin]
+[HKEY_CURRENT_USER\SOFTWARE\RLogin\Capabilities]
+[HKEY_CURRENT_USER\SOFTWARE\RLogin\Capabilities\URLAssociations]
+"telnet"="RLogin.telnet"
+[HKEY_CURRENT_USER\SOFTWARE\RegisteredApplications]
+"RLogin"="Software\\RLogin\\Capabilities"
